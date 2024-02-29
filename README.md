@@ -15,3 +15,7 @@
  - https://www.acmicpc.net/problem/17609
 3. 두 정삼각형
  - https://www.acmicpc.net/problem/28217
+4. 햄버거 분배
+ - https://www.acmicpc.net/problem/19941
+5. 등수 찾기
+ - https://www.acmicpc.net/problem/17616
