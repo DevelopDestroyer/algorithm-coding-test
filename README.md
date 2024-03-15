@@ -8,7 +8,7 @@
 3. 로마 숫자
  - https://www.acmicpc.net/problem/2608
 
-## 2024-02-27
+## 2024-03-04 : 수학
 1. 피터팬 프레임
  - https://www.acmicpc.net/problem/3054
 2. 회문
@@ -19,3 +19,19 @@
  - https://www.acmicpc.net/problem/19941
 5. 등수 찾기
  - https://www.acmicpc.net/problem/17616
+
+## 2024-03-11 : 스택
+1. 에디터
+ - https://www.acmicpc.net/problem/1406
+2. 후위 표기식
+ - https://www.acmicpc.net/problem/1918
+3. 히스토그램
+ - https://www.acmicpc.net/problem/1725
+
+## 2024-03-18
+1. 덩치
+ - https://www.acmicpc.net/problem/7568
+2. 체스판 다시 칠하기
+ - https://www.acmicpc.net/problem/1018
+3. 스타트와 링크
+ - https://www.acmicpc.net/problem/14889
